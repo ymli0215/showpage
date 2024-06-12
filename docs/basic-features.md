@@ -2,7 +2,7 @@
 
 - [開發輔助2](./basic-features-dev-assist.md)
 
-- [程式生成](basic-features-codegen.md)
+- [程式生成3](basic-features-codegen.md)
 
 - [Prompt 樣版](basic-features-general-prompt.md)
 
