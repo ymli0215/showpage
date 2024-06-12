@@ -4,5 +4,5 @@
 
 - [程式生成3](basic-features-codegen.md)
 
-- [Prompt 樣版](basic-features-general-prompt.md)
+- [Prompt 樣版4](?a=basic-features-general-prompt.md)
 
